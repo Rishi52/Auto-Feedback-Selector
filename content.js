@@ -1,0 +1,1 @@
+document.querySelectorAll('input[value="3"]').forEach(radio => radio.checked = true);
